@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EXERCISES>
+
+		<exercise>
+			<ID>w01</ID>
+			<name>Arm Circles</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+		<exercise>
+			<ID>w02</ID>
+			<name>Hurdler's Stretch</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+		<exercise>
+			<ID>w03</ID>
+			<name>Neck Rolls</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+
+		<exercise>
+			<ID>h01a</ID>
+			<name>Running</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+		<exercise>
+			<ID>h01b</ID>
+			<name>High-Knee Running</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+		<exercise>
+			<ID>h01c</ID>
+			<name>Butt-Kickers</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+		<exercise>
+			<ID>h02</ID>
+			<name>Jumping Jacks</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+		<exercise>
+			<ID>h03</ID>
+			<name>Burpees</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+		<exercise>
+			<ID>h04</ID>
+			<name>Boxer Circuit</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+		<exercise>
+			<ID>h05</ID>
+			<name>Cross Kicks</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+
+		<exercise>
+			<ID>u01a</ID>
+			<name>Standard Pushups</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+		<exercise>
+			<ID>u01b</ID>
+			<name>Wide Pushups</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+		<exercise>
+			<ID>u02a</ID>
+			<name>Arm Curls</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+		<exercise>
+			<ID>u02b</ID>
+			<name>Hammer Curls</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+		<exercise>
+			<ID>u03a</ID>
+			<name>Tricep Dips</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+
+		<exercise>
+			<ID>l01a</ID>
+			<name>Squats</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+		<exercise>
+			<ID>l01b</ID>
+			<name>Jumping Squats</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+		<exercise>
+			<ID>l02a</ID>
+			<name>Lunges</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+		<exercise>
+			<ID>l03</ID>
+			<name>Wall Sit</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+		<exercise>
+			<ID>l04</ID>
+			<name>Step up</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+
+		<exercise>
+			<ID>c01a</ID>
+			<name>Abdominal Crunch</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+		<exercise>
+			<ID>c01b</ID>
+			<name>Bicycle Crunch</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+		<exercise>
+			<ID>c01c</ID>
+			<name>V-Up</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+		<exercise>
+			<ID>c02a</ID>
+			<name>Mason Twist</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+		<exercise>
+			<ID>c03a</ID>
+			<name>Plank</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+		<exercise>
+			<ID>c03a</ID>
+			<name>Side Plank</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+		<exercise>
+			<ID>c04</ID>
+			<name>Superman</name>
+			<image></image>
+			<reps></reps>
+		</exercise>
+
+</EXERCISES>

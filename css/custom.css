@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+.bottomAttached{
+	bottom:0 !important;
+	margin-bottom:0 !important;
+	vertical-align:bottom !important;
+}
+
+.buttonImage{
+	height:24px;
+	width:24px;
+}
+
+.fullHeight{
+	height:100%;
+}
+
+.slateGrey{
+	background-color:#333 !important;
+}
+
+.ultraWide{
+	max-width:100% !important;
+}
+#workoutPlayer{
+	height:62%;
+	padding: 5rem;
+	
+	color:white;
+	text-align:center;
+	
+	background: #1d1d1d; /* Old browsers */
+	background: -moz-linear-gradient(top,  #1d1d1d 0%, #000000 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#1d1d1d), color-stop(100%,#000000)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #1d1d1d 0%,#000000 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #1d1d1d 0%,#000000 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #1d1d1d 0%,#000000 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #1d1d1d 0%,#000000 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1d1d1d', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
+	
+}
+
+#workoutController{
+	height:38%;
+	padding: 2.5rem;
+	
+	color:white;
+	text-align:center;
+	
+	background: #666666; /* Old browsers */
+	background: -moz-linear-gradient(top,  #666666 1%, #333333 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#666666), color-stop(100%,#333333)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #666666 1%,#333333 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #666666 1%,#333333 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #666666 1%,#333333 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #666666 1%,#333333 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#666666', endColorstr='#333333',GradientType=0 ); /* IE6-9 */
+	
+}
+
+@media only screen and (min-width: 40.063em) {
+	
+	.buttonImage{
+		height:48px;
+		width:48px;
+	}
+	
+	#workoutPlayer{
+		height:100%;
+		padding: 10rem;
+	}
+	
+	#workoutController{
+		height:100%;
+		padding: 5rem;
+	}
+}
